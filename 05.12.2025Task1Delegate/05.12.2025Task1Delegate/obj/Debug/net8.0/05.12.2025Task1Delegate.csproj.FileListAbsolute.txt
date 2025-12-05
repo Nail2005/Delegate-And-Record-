@@ -1,0 +1,14 @@
+C:\Users\Administrator\OneDrive\Desktop\Code World tasks\05.12.2025Task1Delegate\05.12.2025Task1Delegate\bin\Debug\net8.0\05.12.2025Task1Delegate.exe
+C:\Users\Administrator\OneDrive\Desktop\Code World tasks\05.12.2025Task1Delegate\05.12.2025Task1Delegate\bin\Debug\net8.0\05.12.2025Task1Delegate.deps.json
+C:\Users\Administrator\OneDrive\Desktop\Code World tasks\05.12.2025Task1Delegate\05.12.2025Task1Delegate\bin\Debug\net8.0\05.12.2025Task1Delegate.runtimeconfig.json
+C:\Users\Administrator\OneDrive\Desktop\Code World tasks\05.12.2025Task1Delegate\05.12.2025Task1Delegate\bin\Debug\net8.0\05.12.2025Task1Delegate.dll
+C:\Users\Administrator\OneDrive\Desktop\Code World tasks\05.12.2025Task1Delegate\05.12.2025Task1Delegate\bin\Debug\net8.0\05.12.2025Task1Delegate.pdb
+C:\Users\Administrator\OneDrive\Desktop\Code World tasks\05.12.2025Task1Delegate\05.12.2025Task1Delegate\obj\Debug\net8.0\05.12.2025Task1Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\OneDrive\Desktop\Code World tasks\05.12.2025Task1Delegate\05.12.2025Task1Delegate\obj\Debug\net8.0\05.12.2025Task1Delegate.AssemblyInfoInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\Code World tasks\05.12.2025Task1Delegate\05.12.2025Task1Delegate\obj\Debug\net8.0\05.12.2025Task1Delegate.AssemblyInfo.cs
+C:\Users\Administrator\OneDrive\Desktop\Code World tasks\05.12.2025Task1Delegate\05.12.2025Task1Delegate\obj\Debug\net8.0\05.12.2025Task1Delegate.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\Code World tasks\05.12.2025Task1Delegate\05.12.2025Task1Delegate\obj\Debug\net8.0\05.12.2025Task1Delegate.dll
+C:\Users\Administrator\OneDrive\Desktop\Code World tasks\05.12.2025Task1Delegate\05.12.2025Task1Delegate\obj\Debug\net8.0\refint\05.12.2025Task1Delegate.dll
+C:\Users\Administrator\OneDrive\Desktop\Code World tasks\05.12.2025Task1Delegate\05.12.2025Task1Delegate\obj\Debug\net8.0\05.12.2025Task1Delegate.pdb
+C:\Users\Administrator\OneDrive\Desktop\Code World tasks\05.12.2025Task1Delegate\05.12.2025Task1Delegate\obj\Debug\net8.0\05.12.2025Task1Delegate.genruntimeconfig.cache
+C:\Users\Administrator\OneDrive\Desktop\Code World tasks\05.12.2025Task1Delegate\05.12.2025Task1Delegate\obj\Debug\net8.0\ref\05.12.2025Task1Delegate.dll
