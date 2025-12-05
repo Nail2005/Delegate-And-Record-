@@ -1,0 +1,14 @@
+C:\Users\Administrator\OneDrive\Desktop\Code World tasks\05.12.2025Task5Record\05.12.2025Task5Record\bin\Debug\net8.0\05.12.2025Task5Record.exe
+C:\Users\Administrator\OneDrive\Desktop\Code World tasks\05.12.2025Task5Record\05.12.2025Task5Record\bin\Debug\net8.0\05.12.2025Task5Record.deps.json
+C:\Users\Administrator\OneDrive\Desktop\Code World tasks\05.12.2025Task5Record\05.12.2025Task5Record\bin\Debug\net8.0\05.12.2025Task5Record.runtimeconfig.json
+C:\Users\Administrator\OneDrive\Desktop\Code World tasks\05.12.2025Task5Record\05.12.2025Task5Record\bin\Debug\net8.0\05.12.2025Task5Record.dll
+C:\Users\Administrator\OneDrive\Desktop\Code World tasks\05.12.2025Task5Record\05.12.2025Task5Record\bin\Debug\net8.0\05.12.2025Task5Record.pdb
+C:\Users\Administrator\OneDrive\Desktop\Code World tasks\05.12.2025Task5Record\05.12.2025Task5Record\obj\Debug\net8.0\05.12.2025Task5Record.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\OneDrive\Desktop\Code World tasks\05.12.2025Task5Record\05.12.2025Task5Record\obj\Debug\net8.0\05.12.2025Task5Record.AssemblyInfoInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\Code World tasks\05.12.2025Task5Record\05.12.2025Task5Record\obj\Debug\net8.0\05.12.2025Task5Record.AssemblyInfo.cs
+C:\Users\Administrator\OneDrive\Desktop\Code World tasks\05.12.2025Task5Record\05.12.2025Task5Record\obj\Debug\net8.0\05.12.2025Task5Record.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\Code World tasks\05.12.2025Task5Record\05.12.2025Task5Record\obj\Debug\net8.0\05.12.2025Task5Record.dll
+C:\Users\Administrator\OneDrive\Desktop\Code World tasks\05.12.2025Task5Record\05.12.2025Task5Record\obj\Debug\net8.0\refint\05.12.2025Task5Record.dll
+C:\Users\Administrator\OneDrive\Desktop\Code World tasks\05.12.2025Task5Record\05.12.2025Task5Record\obj\Debug\net8.0\05.12.2025Task5Record.pdb
+C:\Users\Administrator\OneDrive\Desktop\Code World tasks\05.12.2025Task5Record\05.12.2025Task5Record\obj\Debug\net8.0\05.12.2025Task5Record.genruntimeconfig.cache
+C:\Users\Administrator\OneDrive\Desktop\Code World tasks\05.12.2025Task5Record\05.12.2025Task5Record\obj\Debug\net8.0\ref\05.12.2025Task5Record.dll
